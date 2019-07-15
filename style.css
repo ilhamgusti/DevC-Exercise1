@@ -1,0 +1,24 @@
+
+.tx-white{
+  color: rgb(238, 238, 238);
+}
+.bg-ijolumut{
+  background-image: linear-gradient(to left, #176ae7, #0093fd, #00b4f4, #00cfd9, #20e5ba);
+}
+
+body{
+  size: 100vh;
+  background-color: rgb(255, 255, 255)
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container {
+  padding: 2px 16px;
+}
